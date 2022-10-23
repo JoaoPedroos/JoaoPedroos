@@ -1,6 +1,6 @@
 ### Olá Mundo - 👋
 
-- 🌱 Atualmente estudando Front-End.
+- 🌱 Atualmente estudando HTML, CSS E JavaScript.
 - 🤔 Aceito críticas construtivas!
 
 <div align="center">
