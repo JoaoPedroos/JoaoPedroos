@@ -3,6 +3,11 @@
 - 🌱 Atualmente estudando HTML, CSS E JavaScript.
 - 🤔 Aceito críticas construtivas!
 
+### Site Portifólio
+
+- [joaopedro.github.io/JoaoPedro](https://joaopedroos.github.io/Principal/)
+
+##
 <div align="center">
   <a href="https://github.com/JoaoPedroos">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
