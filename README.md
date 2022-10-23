@@ -1,4 +1,4 @@
-### Olá Mundo! - 👋
+### Olá Mundo - 👋
 
 - 🌱 Atualmente estudando Front-End.
 - 🤔 Aceito críticas construtivas!
