@@ -1,6 +1,6 @@
 ### Olá Mundo - 👋
 
-- 🌱 Atualmente estudando HTML, CSS E JavaScript.
+- 🌱 Atualmente estudando HTML, CSS && JavaScript.
 - 🤔 Aceito críticas construtivas!
 
 ### Site Portifólio
