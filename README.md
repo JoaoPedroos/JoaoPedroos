@@ -1,7 +1,7 @@
 ### Olá Mundo 👋
 
 - 🌱 Atualmente estudando Front-End.
-- 🤔 Aceito criticas construtivas!
+- 🤔 Aceito críticas construtivas!
 
 <div align="center">
   <a href="https://github.com/JoaoPedroos">
