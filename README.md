@@ -3,9 +3,6 @@
 - 🌱 Atualmente estudando HTML, CSS, JavaScript, Java, React...
 - 🤔 Aceito críticas construtivas!
 
-### Site Portifólio
-
-- W
 
 ##
 <div align="center">
