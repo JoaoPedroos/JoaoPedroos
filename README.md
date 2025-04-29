@@ -1,13 +1,16 @@
 ### Olá Mundo - 👋
 
-- 🌱 Atualmente estudando HTML, CSS, JavaScript, Java, React...
-- 🤔 Aceito críticas construtivas!
+- 🌱 Atualmente estudando Java, e Front-End.
+- 📚 Cursando Analise e Desenvolvimento de Sistemas.
+- 🔥 Sempre em Eventos de Tecnologia.
+- 🎮 Curto modificar jogos.
+- 🔒 Aprendendo também sobre criptografia.
 
 
 ##
 <div align="center">
   <a href="https://github.com/JoaoPedroos">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=transparent"/>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&langs_count=7&theme="/>
 </div>
 
@@ -15,6 +18,7 @@
     <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javascript-plain.svg">
 </div>
 
 ##
