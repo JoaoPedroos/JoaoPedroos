@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando Java, Python e Front-End.
 - 📚 Cursando Analise e Desenvolvimento de Sistemas.
-- 🔥 Sempre em Eventos de Tecnologia.
+- 🔥 Sempre em Eventos de Tecnologia. 
 - 🎮 Curto modificar jogos.
 - 🔒 Aprendendo também sobre criptografia.
 
