@@ -1,10 +1,9 @@
 ### Olá Mundo - 👋
 
-- 🌱 Atualmente estudando Java, Python e Front-End.
-- 📚 Cursando Analise e Desenvolvimento de Sistemas.
-- 🔥 Sempre em Eventos de Tecnologia. 
-- 🎮 Curto modificar jogos.
-- 🔒 Aprendendo também sobre criptografia.
+- 🌱 Atualmente programo em Java.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- 📚 Curso de Desenvolvimento Front-End no Senai em 2022.
+- 🌐 Curto esutdar Blockchain e Criptografia.
 
 
 ##
