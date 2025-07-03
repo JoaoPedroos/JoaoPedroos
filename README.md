@@ -1,6 +1,6 @@
 ### Olá Mundo - 👋
 
-- 🌱 Atualmente programo em Java.
+- 🌱 Atualmente estudando React.js e Java.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
 - 📚 Curso de Desenvolvimento Front-End no Senai em 2022.
 - 🌐 Curto esutdar Blockchain e Criptografia.
