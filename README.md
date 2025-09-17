@@ -7,12 +7,6 @@
 
 
 ##
-// <div align="center">
-// <a href="https://github.com/JoaoPedroos">
-// <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&true&theme=dark"/>
-// <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=transparent"/>
-    
-</div>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
