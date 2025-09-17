@@ -1,9 +1,9 @@
-### Olá Mundo - 👋
+### < Olá Mundo - 👋 \>
 
-- 🌱 Atualmente estudando React.js e Java.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estudando Java e NoSQL.
+- 📚 3° Semestre no curso Análise e Desenvolvimento de Sistemas.
 - 📚 Curso de Desenvolvimento Front-End no Senai em 2022.
-- 🌐 Curto esutdar Blockchain e Criptografia.
+
 
 
 ##
@@ -11,6 +11,7 @@
   <a href="https://github.com/JoaoPedroos">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&true&theme=dark"/>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&hide_progress=true"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
