@@ -11,7 +11,7 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 ## 📊 Linguagens Mais Utilizadas/Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&langs_count=8&theme=dark)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=dark)
 
-<table style="border:0">
+<table style="border=0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=radical" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&theme=radical"/></td>
