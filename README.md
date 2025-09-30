@@ -9,8 +9,7 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
 
 ## 📊 Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=donut&langs_count=8&theme=dracula)[![Clique para jogar](https://img.shields.io/badge/Jogar-Agora-green?style=for-the-badge&logo=github)](https://seu-usuario.github.io/seu-jogo/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=donut&langs_count=8&theme=dracula)
 
 
 
