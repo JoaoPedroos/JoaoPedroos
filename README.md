@@ -10,6 +10,10 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 
 ## 📊 Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=donut&langs_count=8&theme=dracula)
+## 🕹️ Jogue agora meu mini game!
+
+[![Clique para jogar](https://img.shields.io/badge/Jogar-Agora-green?style=for-the-badge&logo=github)](https://seu-usuario.github.io/seu-jogo/)
+
 
 
 
