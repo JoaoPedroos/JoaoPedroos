@@ -8,6 +8,11 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
 - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
 
+  ## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&langs_count=8&theme=dracula)
+
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Joao-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
