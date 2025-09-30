@@ -6,9 +6,8 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
 - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
 - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
-- 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**, com foco em:
-  - HTML, CSS e JavaScript (arrays, consumo de REST APIs)
-  - Fundamentos de Git e GitHub para versionamento e colaboração
+- 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Joao-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
