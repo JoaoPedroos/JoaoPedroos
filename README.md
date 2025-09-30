@@ -8,8 +8,7 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
 - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
 
-  ## 📊 GitHub Stats
-
+  ## 📊 Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=donut&langs_count=8&theme=dracula)
 
 
