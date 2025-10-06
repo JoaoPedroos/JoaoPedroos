@@ -7,7 +7,7 @@ Sou João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e 
 - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
 - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
 - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
-- 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
+- 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI** 
 
 ## 📊 Linguagens Mais Utilizadas/Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&langs_count=8&theme=dark)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=dark)
