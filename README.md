@@ -8,7 +8,7 @@ Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de An�
 - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
 - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
 - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
-## 📊 Linguagens e Softwares
+##  Linguagens e Softwares
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" alt="Joao-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -24,7 +24,7 @@ Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de An�
     <img align="center" alt="Joao-Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 </div>
 
-## 📊 Meus Status
+## Meus Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroos&layout=compact&langs_count=8&theme=dark)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroos&show_icons=true&theme=dark)
 
 
