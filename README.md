@@ -2,15 +2,15 @@
 
 ### Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas.
 
-#### - 💻 Tenho conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Node.js**.
-#### - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
-#### - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
-#### - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
-#### - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
-#### - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
+  - 💻 Tenho conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Node.js**.
+  - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
+  - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
+  - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
+  - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
+  - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
 
 <div> 
-  <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="Email-Icon" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mailru.svg"></a>
+  <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"></a>
   <a href="https://www.linkedin.com/in/joaopedroos-" target="_blank"><img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a> 
 </div>
 
