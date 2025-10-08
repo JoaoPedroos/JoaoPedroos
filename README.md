@@ -24,7 +24,7 @@ Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de An�
     <img align="center" alt="IntelliJ-IDEA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
     <img align="center" alt="VS-Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     <img align="center" alt="Debian" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg">
-    <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="Ubuntu-Black" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
 
 ## Meus Status
