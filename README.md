@@ -9,6 +9,8 @@
   - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
   - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
 
+## Contato
+
 <div> 
   <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"></a>
   <a href="https://www.linkedin.com/in/joaopedroos-" target="_blank"><img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a> 
