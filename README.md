@@ -8,7 +8,7 @@ Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de An�
 - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
 - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
 - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
-
+## 📊 Linguagens e Softwares
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" alt="Joao-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
