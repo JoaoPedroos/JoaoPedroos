@@ -2,12 +2,13 @@
 
 ### Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas.
 
-# - 💻 Tenho conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Node.js**.
-# - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
-# - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
-# - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
-# - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
-# - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
+#### - 💻 Tenho conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Node.js**.
+#### - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
+#### - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
+#### - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
+#### - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares. 
+#### - 🎓 Concluí em 2022 o curso de **Desenvolvimento Front-End** pelo **SENAI**
+
 ##  Linguagens, Softwares e OS
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
