@@ -38,6 +38,6 @@
 
 ##
 <div> 
-  <a href = "mailto:joaopedroenv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopedroos-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg"></a>
+  <a href="https://www.linkedin.com/in/joaopedroos-" target="_blank"><img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a> 
 </div>
