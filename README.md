@@ -1,6 +1,7 @@
 ## < Hello, World! />
 
 ### Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas.
+
  
   - 💻 Tenho conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Node.js**.
   - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
