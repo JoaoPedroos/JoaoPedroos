@@ -8,6 +8,7 @@
   - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
   - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
   - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares.
+
     
 ## Contato
 
