@@ -9,9 +9,6 @@
   - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
   - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares.
 
-
-
-    
 ## Contato
 
 <div> 
