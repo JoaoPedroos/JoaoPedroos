@@ -8,13 +8,11 @@
   - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
   - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
   - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares.
-
 ## Contato
 
 <div> 
   <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"></a>
 </div>
-
 
 ##  Linguagens, Softwares e OS
   <div style="display: inline_block"><br>
