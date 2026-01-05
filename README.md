@@ -12,8 +12,8 @@
 ## Contato
 
 <div> 
-  <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"></a>
-  <a href="https://www.linkedin.com/in/joaopedroos-" target="_blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/?size=100&id=xuvGCOJ4D9S2&format=png&color=000000"></a>
+  <a href = "mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"></a>
+  <a href="https://www.linkedin.com/in/joaopedroos-" target="_blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"></a>
 </div>
 
 ##  Linguagens, Softwares e OS
