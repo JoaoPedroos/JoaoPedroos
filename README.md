@@ -1,13 +1,14 @@
-## < Hello, World! />
+### Meu nome é João Pedro, tenho 21 anos e estou no 4º semestre de ADS.
+### Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escalável, aprofundando-me no ecossistema Java para construir soluções de alto desempenho.
 
-### Meu nome é João Pedro, tenho 20 anos e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas.
+☕ Java & Spring Ecosystem: Desenvolvimento de APIs REST utilizando Spring Boot, Spring Data JPA e Spring Security. Focado em escrita de código limpo e aplicação de SOLID.
 
- 
-  - 💻 Tenho conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Node.js**.
-  - ☕ Estou me aprofundando em **Java** e no ecossistema do **Spring Framework**.
-  - 🗃️ Utilizo **MongoDB** para bancos de dados NoSQL e **MySQL** para bancos relacionais.
-  - 🐳 Estudo e aplico **Docker** para containerização e criação de ambientes de desenvolvimento modernos.
-  - 🐧 Conhecimento em administração de ambientes Linux, incluindo as distribuições Debian, Ubuntu e similares.
+🗃️ Persistência de Dados: Experiência com bancos relacionais (MySQL) e não-relacionais (MongoDB), garantindo a integridade e performance das consultas.
+
+🐳 DevOps & Infra: Uso de Docker para containerização de microserviços e administração de ambientes Linux (Debian/Ubuntu) para deploy e automação.
+
+💻 Skills: Base em JavaScript, React e Node.js, permitindo uma visão holística do ciclo de vida da aplicação.
+
 ## Contato
 
 <div> 
