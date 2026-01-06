@@ -10,7 +10,7 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 💻 Skills: Base em JavaScript, React e Node.js, permitindo uma visão holística do ciclo de vida da aplicação.
 
 ##
-### Contato
+###  📞  Contato
 
 <div style="display: inline_block"> 
   <a href="mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg"></a>
@@ -18,10 +18,10 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 </div>
 
 ##
-###  Portifólio
+###  🗃  Portifólio
 
 ##
-###  Linguagens, Softwares e OS
+###  🛠  Linguagens, Softwares e OS
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Joao-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
@@ -50,7 +50,7 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 
 <div align="center"> 
   <p>Contador de visitas</p>
-  <img src="https://github.com/JoaoPedroos/JoaoPedroos/blob/main/software-developer.png" alt="Contador de visitas">
+  ![](https://komarev.com/ghpvc/?username=JoaoPedroos&abbreviated=true)
 </div>
 
 ![Hi](https://imgs.search.brave.com/stMBBkgNmTMvSAGNC09Oqax03-m3ATjgrLoYLL2S4DQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/d05tUktGUlBTS01B/QUFBTS9raXR0eS1o/aWdoa2l0dGVuLmdp/Zg.gif)
