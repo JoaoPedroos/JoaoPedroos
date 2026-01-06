@@ -8,7 +8,7 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 🐳 DevOps & Infra: Uso de Docker para containerização de microserviços e administração de ambientes Linux (Debian/Ubuntu) para deploy e automação.
 
 💻 Skills: Base em JavaScript, React e Node.js, permitindo uma visão holística do ciclo de vida da aplicação.
-
+[!Hi](https://gifdb.com/gif/cartoon-cat-hi-i80pa1iphaz6fpmi.html)
 ##
 ### Contato
 
