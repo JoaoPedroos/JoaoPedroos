@@ -1,4 +1,4 @@
-### Meu nome é João Pedro, tenho 21 anos e estou no 4º semestre de ADS.
+### Meu nome é João Pedro, tenho 21 anos e estou no 4º semestre de ADS na UniProjeção DF.
 ### Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escalável, aprofundando-me no ecossistema Java para construir soluções de alto desempenho.
 
 #### ☕ Java & Spring Ecosystem: Desenvolvimento de APIs REST utilizando Spring Boot, Spring Data JPA e Spring Security. Focado em escrita de código limpo e aplicação de SOLID.
