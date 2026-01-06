@@ -50,6 +50,6 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 
 <div align="center"> 
   <p>Contador de visitas</p>
-  <img src="https://profile-counter.glitch.me/JoaoPedroos/count.svg" alt="Contador de visitas" />
+  <img src="https://github.com/JoaoPedroos/JoaoPedroos/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 </div>
 
