@@ -10,7 +10,7 @@
 #### 💻 Skills: Base em JavaScript, React e Node.js, permitindo uma visão holística do ciclo de vida da aplicação.
 
 ##
-## Contato
+### Contato
 
 <div style="display: inline_block"> 
   <a href="mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg"></a>
@@ -18,7 +18,7 @@
 </div>
 
 ##
-##  Linguagens, Softwares e OS
+###  Linguagens, Softwares e OS
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Joao-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
