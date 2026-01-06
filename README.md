@@ -50,6 +50,6 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 
 <div align="center"> 
   <p>Contador de visitas</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Contador de visitas" />
+  <img src="https://profile-counter.glitch.me/JoaoPedroos/count.svg" alt="Contador de visitas" />
 </div>
 
