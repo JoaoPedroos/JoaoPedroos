@@ -18,6 +18,9 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 </div>
 
 ##
+###  
+
+##
 ###  Linguagens, Softwares e OS
   <div style="display: inline_block"><br>
     <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,5 +48,8 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
           
 </div>
 
-
+<div align="center"> 
+  <p>Contador de visitas</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Contador de visitas" />
+</div>
 
