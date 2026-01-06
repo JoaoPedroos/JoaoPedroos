@@ -48,9 +48,8 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
           
 </div>
 
+##
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=JoaoPedroos&abbreviated=true)
 
-  <p>Contador de visitas</p>
-  ![Counter](https://komarev.com/ghpvc/?username=JoaoPedroos&abbreviated=true)
-
-
+##
 ![Hi](https://imgs.search.brave.com/stMBBkgNmTMvSAGNC09Oqax03-m3ATjgrLoYLL2S4DQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/d05tUktGUlBTS01B/QUFBTS9raXR0eS1o/aWdoa2l0dGVuLmdp/Zg.gif)
