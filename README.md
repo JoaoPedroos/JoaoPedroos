@@ -1,4 +1,4 @@
-<div> (https://imgs.search.brave.com/G2RNRZJvDDMZ8P2ScRFqgRGFToZbBWrjkod6pQKEEQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY3V0ZS1r/aXR0ZW4taGktN3Vl/cGU0M2JvaWhtZHRh/ZC5naWY.gif) </div>
+![Hi](https://imgs.search.brave.com/G2RNRZJvDDMZ8P2ScRFqgRGFToZbBWrjkod6pQKEEQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY3V0ZS1r/aXR0ZW4taGktN3Vl/cGU0M2JvaWhtZHRh/ZC5naWY.gif)
 
 ### Meu nome é João Pedro, tenho 21 anos e estou no 4º semestre de ADS na UniProjeção DF.
 Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escalável, aprofundando-me no ecossistema Java para construir soluções de alto desempenho.
