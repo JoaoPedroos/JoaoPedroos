@@ -12,7 +12,7 @@ Atualmente, meu foco principal é o desenvolvimento Back-end robusto e escaláve
 ##
 ###  📞  Contato
 
-<div style="display: inline_block"> 
+<div> 
   <a href="mailto:joaopedroenv@gmail.com"><img align="center" alt="Gmail" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg"></a>
   <a href="https://www.linkedin.com/in/joaopedroos-"><img align="center" alt="LinkedIn" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"></a>
 </div>
